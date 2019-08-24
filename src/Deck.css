@@ -1,0 +1,9 @@
+.card-area {
+  margin-top: 4rem;
+}
+.deck-title {
+  color: azure;
+  font-size: 2rem;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
